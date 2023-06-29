@@ -1,0 +1,1 @@
+source C:\Users\sakif\AppData\Local\nvim\_vimrc
